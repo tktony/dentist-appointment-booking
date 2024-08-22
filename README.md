@@ -1,4 +1,5 @@
-# dentist-appointment-booking
+# Dentist practise Appointment Booking
+
 Dentist practise Appointment Booking using java
 ![ManagePat2](https://github.com/user-attachments/assets/e5d47d70-cb0d-4060-b283-228ea1fb8c23)
 ![ManagePat](https://github.com/user-attachments/assets/8b82e5ca-87d2-45b2-a912-b616cdaea5c0)
